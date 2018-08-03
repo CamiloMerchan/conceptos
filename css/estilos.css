@@ -1,0 +1,31 @@
+body{
+	background-color: #A82F2F;
+}
+h1{
+	text-align: center;
+}
+p,code,s,strike,del{
+	/*aplicando el mismo estilo a a y a p*/
+	font-size: 72px;
+}
+em{
+ color: #2F2FC6;
+ /*tamaño de la fuente*/
+ font-size: 64px;
+}
+.cur1{
+	background-color: #F8F7F7;
+	font-size:64px;
+}
+.cur2{
+	/*propiedad de fondo*/
+	background-color: #F8F7F7;
+	font-size:80px;
+}
+p em{
+	color: #18FE6F;
+}
+.p1{
+	background-color: #08706C;
+	font-size: 64px;
+}
